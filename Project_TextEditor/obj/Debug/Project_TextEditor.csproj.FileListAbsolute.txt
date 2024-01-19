@@ -1,0 +1,14 @@
+C:\Users\DEICIDA\source\repos\Project_TextEditor\bin\Debug\Project_TextEditor.exe.config
+C:\Users\DEICIDA\source\repos\Project_TextEditor\bin\Debug\Project_TextEditor.exe
+C:\Users\DEICIDA\source\repos\Project_TextEditor\bin\Debug\Project_TextEditor.pdb
+C:\Users\DEICIDA\source\repos\Project_TextEditor\obj\Debug\Project_TextEditor.csproj.AssemblyReference.cache
+C:\Users\DEICIDA\source\repos\Project_TextEditor\obj\Debug\Project_TextEditor.Properties.Resources.resources
+C:\Users\DEICIDA\source\repos\Project_TextEditor\obj\Debug\Project_TextEditor.csproj.GenerateResource.cache
+C:\Users\DEICIDA\source\repos\Project_TextEditor\obj\Debug\Project_TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\DEICIDA\source\repos\Project_TextEditor\obj\Debug\Project_TextEditor.exe
+C:\Users\DEICIDA\source\repos\Project_TextEditor\obj\Debug\Project_TextEditor.pdb
+C:\Users\DEICIDA\source\repos\Project_TextEditor\obj\Debug\Project_TextEditor.TextWire.resources
+C:\Users\DEICIDA\source\repos\Project_TextEditor\bin\Debug\Project_TextEditor.exe.manifest
+C:\Users\DEICIDA\source\repos\Project_TextEditor\bin\Debug\Project_TextEditor.application
+C:\Users\DEICIDA\source\repos\Project_TextEditor\obj\Debug\Project_TextEditor.exe.manifest
+C:\Users\DEICIDA\source\repos\Project_TextEditor\obj\Debug\Project_TextEditor.application
