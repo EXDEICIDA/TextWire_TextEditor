@@ -29,9 +29,6 @@ Explore the various features of TextWire:
 ## Contribution
 Contributions, comments, and criticisms are welcome! Feel free to open an issue or create a pull request.
 
-## License
-This project is licensed under [MIT]. See the [MIT.md](MIT.md) file for details.
-
 ## Support and Contact
 For support or inquiries, you can contact [Javad Soltanov] at [javadsoltanov@gmail.com].
 
