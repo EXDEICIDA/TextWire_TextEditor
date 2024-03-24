@@ -8,6 +8,7 @@ TextWire is a medium-sized text editor designed for simplicity and versatility. 
 - Save and open functionality for both text (txt) and rich text format (rtf) files.
 - Customizable settings to tailor the editor to individual preferences.
 - Inclusion of a word count and line counter for document analysis.
+- Font modifications that helps to write versatile text documents.
 
 ## Technologies Used
 - C# programming language
