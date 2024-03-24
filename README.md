@@ -14,6 +14,11 @@ TextWire is a medium-sized text editor designed for simplicity and versatility. 
 - Windows Forms Application in the .NET Framework
 - Visual Studio as the integrated development environment (IDE)
 
+## Overview 
+![Description of Image 1](https://github.com/EXDEICIDA/TextWire_TextEditor/raw/main/TEXTEDITORPICTURES/Screenshot%202024-03-24%20175406.png)
+
+![Description of Image 2](https://github.com/EXDEICIDA/TextWire_TextEditor/raw/main/TEXTEDITORPICTURES/Screenshot%202024-03-24%20175549.png)
+
 ## Installation
 1. Navigate to the "Files" section of this GitHub repository.
 2. Download the provided zip file.
